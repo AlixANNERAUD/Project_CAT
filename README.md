@@ -1,2 +1,2 @@
 # Project-CAT
-A Scratch game made during a stage.
+A scratch game made in one week.
